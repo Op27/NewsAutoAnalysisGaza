@@ -1,8 +1,8 @@
 # NewsAutoAnalysisGaza
 
 NewsAutoAnalysisGaza is a tool designed to scrape, analyze, and summarize news articles focusing on the Gaza conflict. By leveraging advanced Python libraries and OpenAI's GPT models, this application provides insightful visualizations such as word clouds and frequency analysis charts, alongside comprehensive summaries that offer a deeper understanding of the conflict's coverage in the media.
+  &nbsp;
 
-   &nbsp;
 https://github.com/Op27/NewsAutoAnalysisGaza/assets/39921621/da9213d4-4d8a-4598-8b0e-1aae76aaa39c
 
 ## Features
