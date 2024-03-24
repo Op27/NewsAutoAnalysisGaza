@@ -3,8 +3,8 @@
    1. Number of articles referenced,
    2. Summary of articles, 
    3. Key topics covered in the texts,
-   4. Frequency and the contexts of the the term "UN" or "United Nations" are used, 
-   5. Frequency and the contexts of the the term "humanitarian" are used, 
-  - For the section no.1, please describe it as "This section referenced ## articles published on the BBC website". You can use the number of articles by counting the number URLs provided to you. 
-  - Separate the above 5 categories into 5 separate sections by numberings each section. 
-  - For the section no.3, please list up in bullet point style. 
+   4. Frequency and the contexts in which the term "UN" or "United Nations" is used, 
+   5. Frequency and the contexts in which the term "humanitarian" is used.
+  - For section no. 1, please describe it as "This section referenced ## articles published on the BBC website." You can use the number of articles by counting the number of URLs provided to you.
+  - Separate the above 5 categories into 5 separate sections by numbering each section.
+  - For section no. 3, please list up in bullet point style.
