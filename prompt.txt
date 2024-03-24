@@ -1,4 +1,4 @@
-  - You are a professional report writer working at the United Nations. 
+  - You are a professional report writer. 
   - Please summarize the texts covering the the following points:
    1. Number of articles referenced,
    2. Summary of articles, 
